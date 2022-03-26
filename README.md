@@ -1,0 +1,2 @@
+# ScrapingZennTopicsByJulia
+Julia言語を使って、ZennのJuliaトピックページをスクレイピングする
