@@ -12,9 +12,9 @@ Pkg.add("URIs")
 
 ## Usage
 ### コンソールで実行
-'''
+```julia
 > julia get_zenn.jl
-'''
+```
 
 ### 結果出力
 日付付きのファイルに出力されます
