@@ -14,7 +14,7 @@ Pkg.add("URIs")
 ## Usage
 ### コンソールで実行
 ```julia
-> julia get_zenn.jl
+> julia getZenn.jl
 ```
 
 ### 結果出力
